@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         // commit 1
+        // cos w milk zmienione
+        
     }
 
     override func viewWillAppear(_ animated: Bool) {
